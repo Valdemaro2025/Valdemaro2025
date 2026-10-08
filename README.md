@@ -78,47 +78,126 @@ Build and improve dashboards and analytical reports for regular business monitor
 
 ---
 
-## 💡 Featured Projects
+# 💡 Featured Projects
 
-### 🤖 Educational RAG System
-
-Built an educational **Retrieval-Augmented Generation** application with document retrieval, text processing, answer generation, and an interactive Streamlit interface.
-
-**Tech:** `Python` `RAG` `Streamlit` `NLP` `scikit-learn`
+Selected academic and consulting-style projects focused on business analytics, process optimization, and data-driven decision-making.
 
 ---
 
-### 🎬 Content-Based Movie Recommendation System
+## 🏦 01. Alfa-Bank | Automated Sales Analytics Module
 
-Developed a content-based recommendation system with data preprocessing, feature engineering, similarity analysis, and movie recommendation generation.
+### Designing an analytics solution for branch management
 
-**Tech:** `Python` `Pandas` `Recommendation Systems` `Data Analysis`
+**Project overview**
 
-<a href="https://github.com/Valdemaro2025/content-based-movie-recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Valdemaro2025&repo=content-based-movie-recommender&theme=github_dark&hide_border=true" />
-</a>
+Designed a concept for an automated analytics module within Alfa-Bank's internal Sales Force Automation (SFA) system.
+
+The project focused on reducing manual reporting, improving sales performance monitoring, and providing branch managers with real-time analytical insights.
+
+### 🔍 Key Contributions
+
+- Analyzed existing reporting workflows and identified inefficiencies in manual data collection.
+- Conducted stakeholder interviews to identify business needs and reporting requirements.
+- Developed functional and non-functional requirements for the proposed analytics module.
+- Designed business processes and user scenarios for automated reporting.
+- Developed a financial model to evaluate the expected business impact.
+
+### 📊 Expected Business Impact
+
+| Metric | Projected Result |
+|:---|:---|
+| Sales performance | +0.2% |
+| Net Present Value (NPV) | ₽17.1M |
+| Reporting | Automated analytical reporting |
+| Operational efficiency | Reduced manual reporting workload |
+
+*Results represent projected benefits based on the project's financial model, not measured post-implementation outcomes.*
+
+### 🛠 Methods & Tools
+
+![BPMN](https://img.shields.io/badge/BPMN-Process_Modeling-4A90E2?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business-Analysis-6F42C1?style=flat-square)
+![Financial Modeling](https://img.shields.io/badge/Financial-Modeling-00875A?style=flat-square)
+
+**Key deliverables:** Business requirements, process models, solution architecture, user scenarios, financial model.
 
 ---
 
-### 🧠 Machine Learning & Neural Networks
+## ⚙️ 02. Sovcombank | Business Process Optimization
 
-Academic projects focused on predictive modeling, classification, neural networks, and practical applications of Machine Learning.
+### Business process analysis and redesign
 
-**Tech:** `Python` `Machine Learning` `Neural Networks` `TensorFlow.js`
+**Project overview**
+
+Analyzed and redesigned the employee sports compensation application process within Sovcombank's Corporate Values Department.
+
+The objective was to identify operational bottlenecks, reduce manual processing, and improve the efficiency of employee application handling.
+
+### 🔍 Key Contributions
+
+- Analyzed the organizational structure and existing business processes.
+- Developed AS-IS and TO-BE process models.
+- Identified bottlenecks and inefficient approval procedures.
+- Proposed automation of application verification and processing.
+- Developed process performance indicators and evaluated the economic impact of the proposed improvements.
+
+### 📊 Expected Business Impact
+
+| Metric | Projected Result |
+|:---|:---|
+| Processing capacity | 3× increase |
+| Application processing time | Up to 3× reduction |
+| Process costs | Reduction estimated in the project |
+| Operational efficiency | Simplified approval workflow |
+
+*Results are based on the proposed TO-BE process model and project calculations.*
+
+### 🛠 Methods & Tools
+
+![BPMN](https://img.shields.io/badge/BPMN-Process_Modeling-4A90E2?style=flat-square)
+![SIPOC](https://img.shields.io/badge/SIPOC-Process_Analysis-00875A?style=flat-square)
+![ARIS](https://img.shields.io/badge/ARIS-Modeling-FF6B35?style=flat-square)
+![RASCI](https://img.shields.io/badge/RASCI-Responsibility_Matrix-6F42C1?style=flat-square)
+
+**Key deliverables:** AS-IS / TO-BE models, process optimization proposals, KPI framework, economic impact assessment.
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Appendix | Additional Projects
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Valdemaro2025&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
+Additional academic projects demonstrating experience in database design, strategic analysis, and analytical problem-solving.
 
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdemaro2025&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+---
+
+### 🗄️ Library Database Design | SQL & Data Modeling
+
+Designed a relational database for managing municipal library operations, including books, readers, employees, and borrowing records.
+
+**Key activities:**
+- Designed conceptual and logical data models.
+- Developed database structure and relationships.
+- Implemented indexes and stored procedures.
+- Worked with SQL queries and database optimization concepts.
+
+**My contribution:** Database schema design, index configuration, and stored procedure development.
+
+**Tools:** `SQL` `Database Design` `Data Modeling` `Stored Procedures`
+
+---
+
+### 📊 Strategic Analysis | Sustainability Consulting Group
+
+Conducted a strategic analysis of Sustainability Consulting Group, focusing on market positioning, competitive environment, and potential growth opportunities.
+
+**Key activities:**
+- Analyzed the external business environment using PESTEL.
+- Evaluated industry competition using Porter's Five Forces.
+- Identified key success factors and competitive advantages.
+- Conducted SWOT analysis.
+- Developed strategic alternatives for business development.
+
+**Methods:** `PESTEL` `SWOT` `Porter's Five Forces` `Strategic Analysis`
 
 ---
 
@@ -140,7 +219,7 @@ Academic projects focused on predictive modeling, classification, neural network
 - Machine Learning
 - Predictive Modeling
 - Recommendation Systems
-- RAG & LLM applications
+- RAG & LLM Applications
 - Data-driven decision making
 
 ---
@@ -149,7 +228,7 @@ Academic projects focused on predictive modeling, classification, neural network
 
 ---
 
-## 📫 Contact information
+## 📫 Contact Information
 
 <p align="center">
 
