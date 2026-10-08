@@ -1,53 +1,83 @@
-Hi, I’m Vladimir Kuznetsov 👋
+Hey there! I’m Vladimir 👋
 
-I’m a Data Analyst with experience in banking and credit risk analytics.
+📊 Data Analyst | Python & SQL | Exploring Data Science & ML
 
-Currently working at OTP Bank, where I analyze credit portfolio data, work with risk metrics and reporting, and participate in data migration and Data Governance projects.
+I turn complex data into meaningful insights, combining hands-on experience in banking analytics with a strong interest in Data Science, Machine Learning, and AI.
 
-About me
+Currently working as an Analyst at OTP Bank, where I focus on credit portfolio analytics, risk forecasting, and data-driven reporting.
 
-* 🎓 MSc in Business Analytics & Big Data Systems at HSE University
-* 💼 Data & Risk Analytics at OTP Bank
-* 📊 Credit portfolio analytics, NPL forecasting and management reporting
-* 🗄 Experience with Oracle → Greenplum data migration
-* 🔍 Interested in Data Analytics, Data Science and applied ML
+🎓 MSc student in Business Analytics & Big Data Systems at HSE University.
 
-Tech Stack
+⸻
 
-Data Analysis: SQL, Python, Pandas, NumPy, Excel
-Databases: Oracle, Greenplum, Trino
-Visualization & BI: FineBI, Matplotlib
-Other: Git, BPMN, UML, Data Governance
+🚀 What I Do
 
-Selected Projects
+* 📈 Data Analytics – exploring datasets, identifying patterns, and transforming raw data into actionable insights.
+* 🏦 Banking & Risk Analytics – analyzing credit portfolios, forecasting NPL metrics, and supporting Risk Cost calculations.
+* 🗄️ Data Engineering & Migration – working with SQL databases and participating in Oracle → Greenplum migration projects.
+* 🤖 Machine Learning & AI – experimenting with predictive models, recommendation systems, and RAG applications.
+* 📊 Data Visualization – creating dashboards and reports that make complex information easier to understand.
 
-🔎 Educational RAG System
+⸻
 
-RAG application built on the 20 Newsgroups dataset with document chunking, TF-IDF retrieval, answer generation and Streamlit interface.
+🛠️ Tech Stack
 
-Stack: Python, Streamlit, scikit-learn, pytest
+Languages & Data Analysis
 
-🎬 Content-Based Movie Recommender
+Python · SQL · Pandas · NumPy
 
-Content-based recommendation system for movies with data preprocessing, similarity analysis and recommendation generation.
+Databases
 
-Stack: Python, Pandas, recommendation systems
+Oracle · Greenplum · Trino
 
-🍽 Random Lunch Generator
+Visualization & BI
 
-Web application that randomly generates lunch options with a simple interactive interface and deployment through GitHub Pages.
+FineBI · Matplotlib · Excel
 
-Stack: JavaScript, HTML, CSS
+Exploring
 
-Education
+Machine Learning · NLP · RAG · Neural Networks
 
-HSE University
-MSc, Business Analytics & Big Data Systems · 2025–2027
+⸻
 
-HSE University
-BSc, Business Informatics · 2021–2025
+💡 Featured Projects
 
-Contacts
+🤖 Educational RAG System
 
-📧 vkuznetsov03@ya.ru
+Built an educational Retrieval-Augmented Generation application with document retrieval, text processing, and an interactive Streamlit interface.
+
+Python RAG Streamlit NLP
+
+🎬 Movie Recommendation System
+
+Developed a content-based movie recommender using data preprocessing and similarity-based recommendations.
+
+Python Pandas Recommendation Systems
+
+🧠 Machine Learning & Neural Networks
+
+Academic projects exploring predictive modeling, neural networks, and practical ML applications.
+
+Python TensorFlow.js Machine Learning
+
+⸻
+
+🎯 What I’m Interested In
+
+I’m particularly interested in the intersection of Data Analytics, Machine Learning, and real-world business problems.
+
+My goal is to build analytical solutions that go beyond dashboards – from understanding why something happened to predicting what might happen next.
+
+⸻
+
+📬 Let’s Connect!
+
+💼 Open to opportunities in Data Analytics
+
+📧 Email: vkuznetsov03@ya.ru
+
 💬 Telegram: @kuznesss
+
+⸻
+
+Always learning. Always exploring. Always looking for patterns in data.
