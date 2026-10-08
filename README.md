@@ -29,7 +29,7 @@ I'm a **Data Analyst** with hands-on experience in banking and credit risk analy
 
 🎓 MSc student in **Business Analytics & Big Data Systems** at HSE University.
 
-🔍 Interested in the intersection of **Data Analytics and real-world business problems**.
+🔍 Interested in the intersection of Data Analytics and real-world business problems.
 
 ---
 
@@ -122,6 +122,12 @@ The project focused on reducing manual reporting, improving sales performance mo
 
 **Key deliverables:** Business requirements, process models, solution architecture, user scenarios, financial model.
 
+<p>
+  <a href="./Analytics%20module%20Alfa%20Bank.pdf">
+    <img src="https://img.shields.io/badge/View_Full_Project-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## ⚙️ 02. Sovcombank | Business Process Optimization
@@ -162,6 +168,12 @@ The objective was to identify operational bottlenecks, reduce manual processing,
 
 **Key deliverables:** AS-IS / TO-BE models, process optimization proposals, KPI framework, economic impact assessment.
 
+<p>
+  <a href="./BP%20Optimization%20Sovcombank.pdf">
+    <img src="https://img.shields.io/badge/View_Full_Project-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # 📚 Appendix | Additional Projects
@@ -184,6 +196,12 @@ Designed a relational database for managing municipal library operations, includ
 
 **Tools:** `SQL` `Database Design` `Data Modeling` `Stored Procedures`
 
+<p>
+  <a href="./Library%20database%20development.pdf">
+    <img src="https://img.shields.io/badge/View_Project-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Strategic Analysis | Sustainability Consulting Group
@@ -198,6 +216,12 @@ Conducted a strategic analysis of Sustainability Consulting Group, focusing on m
 - Developed strategic alternatives for business development.
 
 **Methods:** `PESTEL` `SWOT` `Porter's Five Forces` `Strategic Analysis`
+
+<p>
+  <a href="./SWOT-analysis.pdf">
+    <img src="https://img.shields.io/badge/View_Project-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -236,4 +260,3 @@ Conducted a strategic analysis of Sustainability Consulting Group, focusing on m
 </a>
 
 </p>
-
