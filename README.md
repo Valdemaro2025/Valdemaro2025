@@ -223,10 +223,6 @@ Conducted a strategic analysis of Sustainability Consulting Group, focusing on m
 
 ---
 
-> 💡 I'm interested in building analytical solutions that go beyond describing **what happened** — towards understanding **why it happened** and predicting **what might happen next**.
-
----
-
 ## 📫 Contact Information
 
 <p align="center">
