@@ -216,7 +216,6 @@ Conducted a strategic analysis of Sustainability Consulting Group, focusing on m
 ## 🎯 Currently Exploring
 
 - Advanced SQL & Data Analytics
-- Machine Learning
 - Predictive Modeling
 - Recommendation Systems
 - RAG & LLM Applications
