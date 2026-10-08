@@ -29,7 +29,7 @@ I'm a **Data Analyst** with hands-on experience in banking and credit risk analy
 
 🎓 MSc student in **Business Analytics & Big Data Systems** at HSE University.
 
-🔍 Interested in the intersection of **Data Analytics, Machine Learning, and real-world business problems**.
+🔍 Interested in the intersection of **Data Analytics and real-world business problems**.
 
 ---
 
