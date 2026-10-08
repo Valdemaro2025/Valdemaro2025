@@ -149,7 +149,7 @@ Academic projects focused on predictive modeling, classification, neural network
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact information
 
 <p align="center">
 
