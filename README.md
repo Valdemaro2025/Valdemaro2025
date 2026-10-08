@@ -1,83 +1,180 @@
-Hey there! I’m Vladimir 👋
+<h1 align="center">Hi, I'm Vladimir 👋</h1>
 
-📊 Data Analyst | Python & SQL | Exploring Data Science & ML
+<h3 align="center">
+  Data Analyst · SQL · Python · Banking & Risk Analytics
+</h3>
 
-I turn complex data into meaningful insights, combining hands-on experience in banking analytics with a strong interest in Data Science, Machine Learning, and AI.
+<p align="center">
+  Turning complex data into insights, forecasts, and better decisions.
+</p>
 
-Currently working as an Analyst at OTP Bank, where I focus on credit portfolio analytics, risk forecasting, and data-driven reporting.
+<p align="center">
+  <a href="mailto:vkuznetsov03@ya.ru">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/kuznesss">
+    <img src="https://img.shields.io/badge/Telegram-@kuznesss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-🎓 MSc student in Business Analytics & Big Data Systems at HSE University.
+---
 
-⸻
+## 👨‍💻 About Me
 
-🚀 What I Do
+I'm a **Data Analyst** with hands-on experience in banking and credit risk analytics.
 
-* 📈 Data Analytics – exploring datasets, identifying patterns, and transforming raw data into actionable insights.
-* 🏦 Banking & Risk Analytics – analyzing credit portfolios, forecasting NPL metrics, and supporting Risk Cost calculations.
-* 🗄️ Data Engineering & Migration – working with SQL databases and participating in Oracle → Greenplum migration projects.
-* 🤖 Machine Learning & AI – experimenting with predictive models, recommendation systems, and RAG applications.
-* 📊 Data Visualization – creating dashboards and reports that make complex information easier to understand.
+🏦 Currently working as an **Analyst at OTP Bank**, where I focus on credit portfolio analytics, risk forecasting, management reporting, and data migration.
 
-⸻
+📊 I work with credit portfolio data, **NPL forecasting, Risk Cost analytics, SQL databases, dashboards, and reporting**.
 
-🛠️ Tech Stack
+🎓 MSc student in **Business Analytics & Big Data Systems** at HSE University.
 
-Languages & Data Analysis
+🔍 Interested in the intersection of **Data Analytics, Machine Learning, and real-world business problems**.
 
-Python · SQL · Pandas · NumPy
+---
 
-Databases
+## 🛠️ Tech Stack
 
-Oracle · Greenplum · Trino
+### Data & Programming
 
-Visualization & BI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-FineBI · Matplotlib · Excel
+### Databases
 
-Exploring
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Greenplum-1D428A?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" />
+</p>
 
-Machine Learning · NLP · RAG · Neural Networks
+### Visualization & Analytics
 
-⸻
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FineBI-Analytics-2F80ED?style=for-the-badge" />
+</p>
 
-💡 Featured Projects
+### Data Science & ML
 
-🤖 Educational RAG System
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-ML-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-AI-000000?style=for-the-badge" />
+</p>
 
-Built an educational Retrieval-Augmented Generation application with document retrieval, text processing, and an interactive Streamlit interface.
+---
 
-Python RAG Streamlit NLP
+## 🚀 What I Do
 
-🎬 Movie Recommendation System
+📈 **Data Analytics**  
+Explore and analyze datasets, identify patterns, and transform raw data into actionable insights.
 
-Developed a content-based movie recommender using data preprocessing and similarity-based recommendations.
+🏦 **Banking & Risk Analytics**  
+Analyze credit portfolios, forecast NPL metrics, and support Risk Cost calculations and management reporting.
 
-Python Pandas Recommendation Systems
+🗄️ **Data & SQL**  
+Work with Oracle, Greenplum, and Trino databases and participate in data migration projects.
 
-🧠 Machine Learning & Neural Networks
+📊 **Data Visualization**  
+Build and improve dashboards and analytical reports for regular business monitoring.
 
-Academic projects exploring predictive modeling, neural networks, and practical ML applications.
+🤖 **Machine Learning & AI**  
+Explore predictive modeling, recommendation systems, neural networks, and RAG applications through academic and personal projects.
 
-Python TensorFlow.js Machine Learning
+---
 
-⸻
+## 💡 Featured Projects
 
-🎯 What I’m Interested In
+### 🤖 Educational RAG System
 
-I’m particularly interested in the intersection of Data Analytics, Machine Learning, and real-world business problems.
+Built an educational **Retrieval-Augmented Generation** application with document retrieval, text processing, answer generation, and an interactive Streamlit interface.
 
-My goal is to build analytical solutions that go beyond dashboards – from understanding why something happened to predicting what might happen next.
+**Tech:** `Python` `RAG` `Streamlit` `NLP` `scikit-learn`
 
-⸻
+---
 
-📬 Let’s Connect!
+### 🎬 Content-Based Movie Recommendation System
 
-💼 Open to opportunities in Data Analytics
+Developed a content-based recommendation system with data preprocessing, feature engineering, similarity analysis, and movie recommendation generation.
 
-📧 Email: vkuznetsov03@ya.ru
+**Tech:** `Python` `Pandas` `Recommendation Systems` `Data Analysis`
 
-💬 Telegram: @kuznesss
+<a href="https://github.com/Valdemaro2025/content-based-movie-recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Valdemaro2025&repo=content-based-movie-recommender&theme=github_dark&hide_border=true" />
+</a>
 
-⸻
+---
 
-Always learning. Always exploring. Always looking for patterns in data.
+### 🧠 Machine Learning & Neural Networks
+
+Academic projects focused on predictive modeling, classification, neural networks, and practical applications of Machine Learning.
+
+**Tech:** `Python` `Machine Learning` `Neural Networks` `TensorFlow.js`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Valdemaro2025&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdemaro2025&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+**HSE University**  
+🎓 MSc in **Business Analytics & Big Data Systems**  
+2025 – 2027
+
+**HSE University**  
+🎓 BSc in **Business Informatics**  
+2021 – 2025
+
+---
+
+## 🎯 Currently Exploring
+
+- Advanced SQL & Data Analytics
+- Machine Learning
+- Predictive Modeling
+- Recommendation Systems
+- RAG & LLM applications
+- Data-driven decision making
+
+---
+
+> 💡 I'm interested in building analytical solutions that go beyond describing **what happened** — towards understanding **why it happened** and predicting **what might happen next**.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:vkuznetsov03@ya.ru">
+  <img src="https://img.shields.io/badge/Email-vkuznetsov03%40ya.ru-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://t.me/kuznesss">
+  <img src="https://img.shields.io/badge/Telegram-@kuznesss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Always learning · Always exploring · Always looking for patterns in data</i>
+</p>
