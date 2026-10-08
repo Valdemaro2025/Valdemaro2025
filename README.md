@@ -60,15 +60,6 @@ I'm a **Data Analyst** with hands-on experience in banking and credit risk analy
   <img src="https://img.shields.io/badge/FineBI-Analytics-2F80ED?style=for-the-badge" />
 </p>
 
-### Data Science & ML
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-ML-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-AI-000000?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 What I Do
@@ -84,9 +75,6 @@ Work with Oracle, Greenplum, and Trino databases and participate in data migrati
 
 📊 **Data Visualization**  
 Build and improve dashboards and analytical reports for regular business monitoring.
-
-🤖 **Machine Learning & AI**  
-Explore predictive modeling, recommendation systems, neural networks, and RAG applications through academic and personal projects.
 
 ---
 
