@@ -237,6 +237,3 @@ Conducted a strategic analysis of Sustainability Consulting Group, focusing on m
 
 </p>
 
-<p align="center">
-  <i>Always learning · Always exploring · Always looking for patterns in data</i>
-</p>
